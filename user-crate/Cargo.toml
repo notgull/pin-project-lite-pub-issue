@@ -1,0 +1,7 @@
+[package]
+name = "user-crate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+exporter-crate = { path = "../exporter-crate" }
